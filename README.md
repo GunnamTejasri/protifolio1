@@ -2,4 +2,4 @@
 Here i created this protifolio as part of my BhartIntern Internship
 
 
-https://github.com/GunnamTejasri/protifolio1.git
+https://gunnamtejasri.github.io/protifolio1/
